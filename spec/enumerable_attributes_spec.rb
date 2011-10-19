@@ -2,8 +2,6 @@ require 'rubygems'
 require 'minitest/spec'
 require 'minitest/pride'
 require 'minitest/autorun'
-
-puts Dir.pwd
 require 'lib/enumerable_attributes'
 
 
