@@ -47,6 +47,7 @@ Justification
 -------------
 
 In order to expose these collections currently there are two ways to go:
+
 1. Make each collection accessible through `attr_reader`.
 2. Write `#each_word`, `#each_line`, and `#each_page` methods.
 
